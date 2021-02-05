@@ -1,0 +1,12 @@
+Descargar Anaconda
+
+Comandos:
+
+conda create -n myenv python=3.7 pandas jupyter seaborn scikit-learn keras pytorch pillow
+
+
+conda activate myenv
+
+
+conda install -c pytorch torchvision
+
